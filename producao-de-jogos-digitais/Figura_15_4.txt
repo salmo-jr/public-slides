@@ -1,0 +1,43 @@
+Jogo fictício Unidade de Justiça
+Produtos da etapa alfa para 30 de março de 2007
+Última atualização em 10 de fevereiro de 2007
+
+Níveis
+- Os níveis a seguir estarão com todos os assets e o roteiro da mecânica:
+	*Sala de justiça
+	*Covil do vilão
+- Os níveis a seguir terão uma geometria básica e poderão ser vistos no jogo,
+mas não estarão com a mecânica roteirizada:
+	*Prefeitura
+	*Complexo de escritórios
+
+Personagens
+- Os personagens a seguir terão todos os assets:
+	*Bullet Point
+	*Montezuma
+- Os personagens a seguir poderão ser vistos no jogo, mas não terão as texturas finais
+	*Caribou
+
+IU
+- O esquema de cores e a fonte estarão concluídos e aprovados
+- O fluxo da IU será prototipado no Macromedia Flash
+- Telas básicas da IU que serão implementadas e estarão funcionando:
+	*Tela inicial
+	*Tela de perfis
+	*Tela de opções
+- A IU in-game terá uma arte provisória com a funcionalidade básica de:
+	*Barra de saúde
+	*Inventário
+
+Som
+- Pistas de VO e designs de som provisórios serão implementados para os níveis a seguir:
+	*Sala de justiça
+	*Covil do vilão
+- Designs de som serão concluídos para os níveis restantes do jogo
+
+Engenharia
+- Ferramentas de script concluídas e funcionando
+- Ferramentas de arte concluídas e funcionando
+- APIs de rede serão implementadas
+- Processo de construção finalizado e definido 
+
